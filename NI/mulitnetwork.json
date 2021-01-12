@@ -184,7 +184,7 @@
             ],
             "properties": {
                 "hardwareProfile": {
-                    "vmSize": "Standard_A2"
+                    "vmSize": "Standard_B2s"
                 },
                 "osProfile": {
                     "computerName": "[variables('vmName')]",
@@ -272,7 +272,7 @@
             ],
             "properties": {
                 "hardwareProfile": {
-                    "vmSize": "Standard_A2"
+                    "vmSize": "Standard_B2s"
                 },
                 "osProfile": {
                     "computerName": "[variables('vmName')]",
@@ -360,7 +360,7 @@
             ],
             "properties": {
                 "hardwareProfile": {
-                    "vmSize": "Standard_A2"
+                    "vmSize": "Standard_B2s"
                 },
                 "osProfile": {
                     "computerName": "[variables('vmName')]",
